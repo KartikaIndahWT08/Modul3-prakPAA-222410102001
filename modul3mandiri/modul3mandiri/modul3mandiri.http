@@ -1,0 +1,6 @@
+@modul3mandiri_HostAddress = http://localhost:5087
+
+GET {{modul3mandiri_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
